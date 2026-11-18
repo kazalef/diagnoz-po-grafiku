@@ -1,0 +1,1 @@
+# diagnoz-po-grafiku
